@@ -4,7 +4,7 @@
 
 This project provides an end-to-end pipeline for predicting Bitcoin prices using tree-based ML models and time series methods. The analysis covers 14+ years of historical data (2010–2024) and includes EDA, feature engineering, model training, hyperparameter tuning, anomaly detection, and volatility modeling.
 
-> ⚠️ **Note on this README**: The performance numbers below were corrected on [DATE] to match the actual output of `03_model_training_evaluation.ipynb`. An earlier version of this README significantly overstated the results (claiming R² > 0.98) — see [Corrected vs. Original](#-corrected-vs-original) at the bottom.
+> ⚠️ **Note on this README**: The performance numbers below were corrected on 2 September 2026 to match the actual output of `03_model_training_evaluation.ipynb`. An earlier version of this README significantly overstated the results (claiming R² > 0.98) — see [Corrected vs. Original](#-corrected-vs-original) at the bottom.
 
 ---
 
@@ -29,7 +29,7 @@ This project provides an end-to-end pipeline for predicting Bitcoin prices using
 
 ## 📈 Models & Performance
 
-*(actual output of `03_model_training_evaluation.ipynb`, run [DATE])*
+*(actual output of `03_model_training_evaluation.ipynb`, run 2 September 2026)*
 
 ### Base Models
 
